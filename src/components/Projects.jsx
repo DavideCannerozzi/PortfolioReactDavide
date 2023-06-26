@@ -18,7 +18,6 @@ export default function Projects(props) {
       content: 'An E-commerce for a client based in Italy',
       alt: 'seteShop',
       skills: 'Wordpress | Javascript | CSS3',
-      website: '',
     },
     {
       image: MachwerkImg,
